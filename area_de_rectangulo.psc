@@ -2,10 +2,10 @@ Proceso area_de_rectangulo
  
     Definir base, altura, area Como Real;
 
-    Escribir "Ingrese la base:";
+    Escribir "Ingresar la base:";
     Leer base;
 
-    Escribir "Ingrese la altura:";
+    Escribir "Ingresar la altura:";
     Leer altura;
 
     Si base < 0 O altura < 0 Entonces;
